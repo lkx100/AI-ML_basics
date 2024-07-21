@@ -1,0 +1,14 @@
+town,area,price,monroe township,robinsville,west windsor
+monroe township,2600,550000,True,False,False
+monroe township,3000,565000,True,False,False
+monroe township,3200,610000,True,False,False
+monroe township,3600,680000,True,False,False
+monroe township,4000,725000,True,False,False
+west windsor,2600,585000,False,False,True
+west windsor,2800,615000,False,False,True
+west windsor,3300,650000,False,False,True
+west windsor,3600,710000,False,False,True
+robinsville,2600,575000,False,True,False
+robinsville,2900,600000,False,True,False
+robinsville,3100,620000,False,True,False
+robinsville,3600,695000,False,True,False
